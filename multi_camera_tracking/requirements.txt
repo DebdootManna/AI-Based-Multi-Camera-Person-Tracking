@@ -1,0 +1,21 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+ultralytics>=8.0.0
+opencv-python>=4.6.0
+numpy>=1.20.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+filterpy>=1.4.5
+tqdm>=4.65.0
+matplotlib>=3.5.0
+lap>=0.4.0
+PyYAML>=6.0
+pillow>=9.0.0
+# For ReID
+thop>=0.1.0
+# For visualization
+seaborn>=0.11.0
+# For video processing
+av>=9.2.0
